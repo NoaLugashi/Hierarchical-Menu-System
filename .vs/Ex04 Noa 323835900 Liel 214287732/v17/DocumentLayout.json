@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCF306E-0B9D-43A2-B6ED-E963126C0493}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.events\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCF306E-0B9D-43A2-B6ED-E963126C0493}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|solutionrelative:ex04.menus.events\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.test\\menuseventstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\menuseventstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.test\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.test\\showdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\showdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCF306E-0B9D-43A2-B6ED-E963126C0493}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.events\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCF306E-0B9D-43A2-B6ED-E963126C0493}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|solutionrelative:ex04.menus.events\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCF306E-0B9D-43A2-B6ED-E963126C0493}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.events\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCF306E-0B9D-43A2-B6ED-E963126C0493}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|solutionrelative:ex04.menus.events\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCF306E-0B9D-43A2-B6ED-E963126C0493}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.events\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCF306E-0B9D-43A2-B6ED-E963126C0493}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|solutionrelative:ex04.menus.events\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.test\\showversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\showversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.interfaces\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.test\\menusinterfacestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\menusinterfacestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.test\\countlowercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D36E435-050C-4FBD-9FC0-DA1DAE522A17}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\countlowercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.interfaces\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.interfaces\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.interfaces\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.interfaces\\imethoditemselectedlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\imethoditemselectedlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|c:\\hit 04 approved\\a25 ex04 noalugashi 323835900 lielavta 214287732\\ex04.menus.interfaces\\iexecutioncompletedlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DE3E8C-8DDA-4F30-BA4F-92D1FB8C26AC}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\iexecutioncompletedlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Method.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Events\\Method.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Events\\Method.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Events\\Method.cs",
+              "RelativeToolTip": "Ex04.Menus.Events\\Method.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:20:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Events\\Menu.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Events\\Menu.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Events\\Menu.cs",
+              "RelativeToolTip": "Ex04.Menus.Events\\Menu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwFkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:21:03.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenusEventsTest.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\MenusEventsTest.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\MenusEventsTest.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\MenusEventsTest.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\MenusEventsTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:25:29.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowDate.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\ShowDate.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowDate.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\ShowDate.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:25:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\ShowTime.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowTime.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\ShowTime.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:25:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\Program.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\Program.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\Program.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:34:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Events\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Events\\MenuItem.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Events\\MenuItem.cs",
+              "RelativeToolTip": "Ex04.Menus.Events\\MenuItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:20:07.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Events\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Events\\MainMenu.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Events\\MainMenu.cs",
+              "RelativeToolTip": "Ex04.Menus.Events\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:21:58.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowVersion.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\ShowVersion.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowVersion.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\ShowVersion.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:25:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\Menu.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\Menu.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\Menu.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\Menu.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:30:53.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenusInterfacesTest.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\MenusInterfacesTest.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\MenusInterfacesTest.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\MenusInterfacesTest.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\MenusInterfacesTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:26:00.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountLowercase.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\CountLowercase.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\CountLowercase.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Test\\CountLowercase.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\CountLowercase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:25:25.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\MenuItem.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\MenuItem.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:30:26.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Method.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\Method.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\Method.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\Method.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\Method.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:30:46.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\MainMenu.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\MainMenu.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:30:14.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMethodItemSelectedListener.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\IMethodItemSelectedListener.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\IMethodItemSelectedListener.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\IMethodItemSelectedListener.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\IMethodItemSelectedListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:30:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IExecutionCompletedListener.cs",
+              "DocumentMoniker": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\IExecutionCompletedListener.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\IExecutionCompletedListener.cs",
+              "ToolTip": "C:\\HIT 04 approved\\A25 Ex04 NoaLugashi 323835900 LielAvta 214287732\\Ex04.Menus.Interfaces\\IExecutionCompletedListener.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\IExecutionCompletedListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:30:08.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
