@@ -36,17 +36,22 @@ The solution consists of **three separate projects**:
 
 ## 📂 Example Menu Structure
 ** Main Menu **
+
 Letters and Version
 
 Show Current Date/Time
 
 Exit
+
 Please enter your choice (1-2 or 0 to exit):
 
 
+
 ** Letters and Version **
+
 Show Version
 
 Count Lowercase Letters
+
 Back
 
